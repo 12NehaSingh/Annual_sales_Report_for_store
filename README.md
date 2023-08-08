@@ -11,6 +11,6 @@ A store owner wants to create a annual sales report for 2022. So that,Neha can u
 
 4.Amazon, Flipcart and Myntra channels are max contributing (~80%).
 
-# Final Conclusion to improve Neha store sales :
+# Final Conclusion to improve  store sales :
 Target **Women** customer of age group (30-40yrs) living in **Maharashtra**,**Karnataka** and **Uttar Pradesh** by showing ads/offers/coupons available on **Amazon**,**Flipcart** and **Myntra** 
 
