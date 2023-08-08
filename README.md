@@ -1,6 +1,6 @@
 # Annual_sales_Report_for_store
 # Objective
-A store' owner wants to create a annual sales report for 2022. So that,Neha can understand their customers and grow more sales in 2023.
+A store's owner wants to create a annual sales report for 2022. So that,Neha can understand their customers and grow more sales in 2023.
 #  Sample Insights
 
 1.Women are more likely to buy compared to men(~65%).
